@@ -1,0 +1,33 @@
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe.config
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\bin\Debug\ejercicio4.exe
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\bin\Debug\ejercicio4.pdb
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\bin\Debug\ejercicio4.xml
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.vbprojAssemblyReference.cache
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.Form1.resources
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.Resources.resources
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.vbproj.GenerateResource.cache
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.exe
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.xml
+C:\Users\epcqa\source\repos\ejercicio4\ejercicio4\obj\Debug\ejercicio4.pdb
+F:\Deber provincias\bin\Debug\ejercicio4.exe.config
+F:\Deber provincias\bin\Debug\ejercicio4.exe
+F:\Deber provincias\bin\Debug\ejercicio4.pdb
+F:\Deber provincias\bin\Debug\ejercicio4.xml
+F:\Deber provincias\obj\Debug\ejercicio4.vbprojAssemblyReference.cache
+F:\Deber provincias\obj\Debug\ejercicio4.Form1.resources
+F:\Deber provincias\obj\Debug\ejercicio4.Resources.resources
+F:\Deber provincias\obj\Debug\ejercicio4.vbproj.GenerateResource.cache
+F:\Deber provincias\obj\Debug\ejercicio4.exe
+F:\Deber provincias\obj\Debug\ejercicio4.xml
+F:\Deber provincias\obj\Debug\ejercicio4.pdb
+E:\Deber provincias\obj\Debug\ejercicio4.vbprojAssemblyReference.cache
+E:\Deber provincias\obj\Debug\ejercicio4.vbproj.GenerateResource.cache
+E:\Deber provincias\bin\Debug\Deber_Provincias.exe.config
+E:\Deber provincias\bin\Debug\Deber_Provincias.exe
+E:\Deber provincias\bin\Debug\Deber_Provincias.pdb
+E:\Deber provincias\bin\Debug\Deber_Provincias.xml
+E:\Deber provincias\obj\Debug\Provincias.Form1.resources
+E:\Deber provincias\obj\Debug\Provincias.Resources.resources
+E:\Deber provincias\obj\Debug\Deber_Provincias.exe
+E:\Deber provincias\obj\Debug\Deber_Provincias.xml
+E:\Deber provincias\obj\Debug\Deber_Provincias.pdb
